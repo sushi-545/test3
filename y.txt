@@ -1,0 +1,4 @@
+https://github.com/apoorva-dave/LicensePlateDetector
+https://github.com/vjgpt/Vehicle-Number-Plate-Reading
+
+svdvsd
